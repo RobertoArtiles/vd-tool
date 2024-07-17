@@ -1,3 +1,8 @@
+# Changes in This Fork
+
+* upgraded npm dependencies https://github.com/RobertoArtiles/vd-tool/pull/1
+* upgraded to the latest version of Vector Drawable Tool built with android tools v31.5.1 https://github.com/RobertoArtiles/vd-tool/pull/2
+
 # vd-tool
 
 Packaging of the Android Studio VectorDrawable CLI tool
