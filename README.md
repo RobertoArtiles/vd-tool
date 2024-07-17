@@ -2,6 +2,7 @@
 
 * upgraded npm dependencies https://github.com/RobertoArtiles/vd-tool/pull/1
 * upgraded to the latest version of Vector Drawable Tool built with android tools v31.5.1 https://github.com/RobertoArtiles/vd-tool/pull/2
+* published an npm package of my fork to https://www.npmjs.com/package/@robertoartiles/vd-tool
 
 # vd-tool
 
