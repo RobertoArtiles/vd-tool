@@ -1,9 +1,10 @@
 {
-  "name": "vd-tool",
-  "version": "4.0.2",
+  "name": "@robertoartiles/vd-tool",
+  "version": "4.1.0",
   "description": "Android Studio Vector Drawable tool",
   "directories": {
-    "lib": "lib"
+    "lib": "lib",
+    "test": "tests"
   },
   "files": [
     "dist",
@@ -12,7 +13,9 @@
     "cli.js",
     "install.js"
   ],
-  "bin": "cli.js",
+  "bin": {
+    "vd-tool": "cli.js"
+  },
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "scripts": {
@@ -24,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stasson/vd-tool.git"
+    "url": "git+https://github.com/RobertoArtiles/vd-tool.git"
   },
   "keywords": [
     "Android",
