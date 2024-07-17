@@ -1,3 +1,5 @@
+![NPM Version](https://img.shields.io/npm/v/%40robertoartiles%2Fvd-tool?label=fork%20npm%20package)
+
 # Changes in This Fork
 
 * upgraded npm dependencies https://github.com/RobertoArtiles/vd-tool/pull/1
