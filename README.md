@@ -1,4 +1,4 @@
-![NPM Version](https://img.shields.io/npm/v/%40robertoartiles%2Fvd-tool?label=fork%20npm%20package)
+[<img src="https://img.shields.io/npm/v/%40robertoartiles%2Fvd-tool?label=fork%20npm%20package">](https://www.npmjs.com/package/@robertoartiles/vd-tool)
 
 # Changes in this Fork
 
